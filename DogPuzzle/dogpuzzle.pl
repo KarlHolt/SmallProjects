@@ -1,3 +1,5 @@
+%% Made in co-operation with my brother Anton Holt
+
 % Running the query: findall(X, charles(X), Xs), length(Xs, NumberSolutions).
 % Results in: NumberSolutions = 16.
 % We can divide this number by 4, because it is possible to rotate the entire puzzle 3 times. 
